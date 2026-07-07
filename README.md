@@ -64,11 +64,11 @@ Each entry of `results` contains:
 
 ## Citation
 
-If you use this code, please cite: (add paper details once published).
+Line Consistent Signed Unit Graphs
 
 ## License
 
-MIT License — Copyright (c) 2026 Rishikant Kala
+MIT License — Copyright (c) 2026 Rishi kant Kala
 
 Anyone can use, copy, or modify this code freely (including
 commercially), as long as this copyright notice is kept. Provided
