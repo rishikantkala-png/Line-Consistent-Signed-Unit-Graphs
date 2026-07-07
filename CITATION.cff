@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Line-Consistent-Signed-Unit-Graphs"
+authors:
+  - family-names: "Kala"
+    given-names: "R.K."
+version: 1.0.0
+date-released: "2026-07-08"
+url: "https://github.com/rishikantkala-png/Line-Consistent-Signed-Unit-Graphs"
+repository-code: "https://github.com/rishikantkala-png/Line-Consistent-Signed-Unit-Graphs"
+license: MIT
+type: software
+keywords:
+  - signed graphs
+  - unit graphs
+  - graph balance
+  - line consistency
+  - algebraic graph theory
+abstract: >
+  A Python implementation for constructing signed unit graphs of Z_n
+  under three signing schemes and their negations, with balance
+  (Harary) and line-consistency checking via fundamental cycle bases.
