@@ -10,12 +10,12 @@ vertices a, b adjacent iff a + b is a unit of R. This repository fixes
 that underlying graph and studies three signing schemes and their
 negations:
 
-| Graph          | Edge is positive iff                                  |
-|----------------|--------------------------------------------------------|
-| G_S1(R)        | at least one endpoint is a unit                        |
-| G_S2(R)        | both endpoints are units                                |
-| G_S3(R)        | both endpoints are the same type (unit/unit or non/non) |
-| eta(G_Si(R))   | negation (flip all signs) of the corresponding G_Si(R)  |
+| Graph        | Edge is positive iff                                    |
+|--------------|-----------------------------------------------------------|
+| G(Σ1)(R)     | at least one endpoint is a unit                          |
+| G(Σ2)(R)     | both endpoints are units                                  |
+| G(Σ3)(R)     | both endpoints are the same type (unit/unit or non/non)  |
+| η(G(Σi)(R))  | negation (flip all signs) of the corresponding G(Σi)(R)  |
 
 For each of the six signed graphs, the script checks:
 
@@ -64,7 +64,12 @@ Each entry of `results` contains:
 
 ## Citation
 
-Line Consistent Signed Unit Graphs
+If you use this code, please cite: (add paper details once published).
+
 ## License
 
-NA
+MIT License — Copyright (c) 2026 Rishikant Kala
+
+Anyone can use, copy, or modify this code freely (including
+commercially), as long as this copyright notice is kept. Provided
+"as is", with no warranty.
